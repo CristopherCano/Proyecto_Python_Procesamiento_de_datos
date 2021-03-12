@@ -1,0 +1,51 @@
+[
+  {
+    "Transporte": "Taxi Libre",
+    "Banderazo": 8.74,
+    "Tarifa Distancia": 1.07,
+    "Tarifa Tiempo": 1.07,
+    "Tarifa Mínima": 8.74
+  },
+  {
+    "Transporte": "Taxi de Sitio",
+    "Banderazo": 13.1,
+    "Tarifa Distancia": 1.3,
+    "Tarifa Tiempo": 1.3,
+    "Tarifa Mínima": 13.1
+  },
+  {
+    "Transporte": "Radio Taxi",
+    "Banderazo": 27.6,
+    "Tarifa Distancia": 1.84,
+    "Tarifa Tiempo": 1.84,
+    "Tarifa Mínima": 27.6
+  },
+  {
+    "Transporte": "Uber X",
+    "Banderazo": 7,
+    "Tarifa Distancia": 3.57,
+    "Tarifa Tiempo": 1.8,
+    "Tarifa Mínima": 35
+  },
+  {
+    "Transporte": "Uber XL",
+    "Banderazo": 12.15,
+    "Tarifa Distancia": 6.28,
+    "Tarifa Tiempo": 3.15,
+    "Tarifa Mínima": 45.5
+  },
+  {
+    "Transporte": "Uber Black",
+    "Banderazo": 30,
+    "Tarifa Distancia": 9.46,
+    "Tarifa Tiempo": 3.5,
+    "Tarifa Mínima": 77
+  },
+  {
+    "Transporte": "Uber SUV",
+    "Banderazo": 40,
+    "Tarifa Distancia": 15,
+    "Tarifa Tiempo": 4,
+    "Tarifa Mínima": 150
+  }
+]
