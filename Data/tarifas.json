@@ -21,28 +21,28 @@
     "Tarifa Mínima": 27.6
   },
   {
-    "Transporte": "Uber X",
+    "Transporte": "UberX",
     "Banderazo": 7,
     "Tarifa Distancia": 3.57,
     "Tarifa Tiempo": 1.8,
     "Tarifa Mínima": 35
   },
   {
-    "Transporte": "Uber XL",
+    "Transporte": "UberXL",
     "Banderazo": 12.15,
     "Tarifa Distancia": 6.28,
     "Tarifa Tiempo": 3.15,
     "Tarifa Mínima": 45.5
   },
   {
-    "Transporte": "Uber Black",
+    "Transporte": "UberBlack",
     "Banderazo": 30,
     "Tarifa Distancia": 9.46,
     "Tarifa Tiempo": 3.5,
     "Tarifa Mínima": 77
   },
   {
-    "Transporte": "Uber SUV",
+    "Transporte": "UberSUV",
     "Banderazo": 40,
     "Tarifa Distancia": 15,
     "Tarifa Tiempo": 4,
