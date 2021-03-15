@@ -11,7 +11,7 @@
 - Trip duration 
 - dist_meters
 - wait_sec
--Hallazgos preliminares encontraros
+- Hallazgos preliminares encontraros
 ### 3.Limpieza de datos y agregaciones
 - Chequeo NaN's
 - Eliminación de columnas
