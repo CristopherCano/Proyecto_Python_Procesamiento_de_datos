@@ -3,16 +3,16 @@
 
 ## Contenido
 
-1.Planteamiento del Problema
+1.Planteamiento del Problema \
 Preguntas Clave
-2.Extracción de datos
+2.Extracción de datos \
 Descripción de las Columnas
 Exploración básica de datos
 Trip duration
 dist_meters
 wait_sec
 Hallazgos preliminares encontraros
-3.Limpieza de datos y agregaciones
+3.Limpieza de datos y agregaciones \
 Chequeo NaN's
 Eliminación de columnas
 Casting fechas
@@ -24,21 +24,21 @@ trip_duration
 wait_sec
 Resumen posterior a eliminación de outliers
 Resultados limpieza
-4.Api GeoNames
+4.Api GeoNames \
 Reverse Geocoding
 Función de petición GET
 Concatenación de latitud y longitud.
 Proceso de conversión de coordenadas
 Eliminación de viajes fuera de la Zona Metropolitana del Valle de México
 Exportación de DataFrame resultante.
-5.Tarifas y Costos
+5.Tarifas y Costos \
 Tarifas
 Costos
 Aplicación de Tarifa Mínima
 Agrupaciones por mes, días y horas
 Separación de Fecha en Hora, Día, Mes
 Resultados
-6.Análisis Exploratorio
+6.Análisis Exploratorio \
 Clasificando los viajes
 Viajes por origen y destino
 Tiempo de espera la misma alcaldia
