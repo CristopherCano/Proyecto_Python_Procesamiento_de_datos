@@ -36,8 +36,8 @@
 - Costos
 - Aplicación de Tarifa Mínima
 - Agrupaciones por mes, días y horas
-- Separación de Fecha en Hora, Día, Mes
-- Resultados
+  - Separación de Fecha en Hora, Día, Mes
+  - Resultados
 ### 6.Análisis Exploratorio
 - Clasificando los viajes
 - Viajes por origen y destino
